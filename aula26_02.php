@@ -1,3 +1,5 @@
+<h1>foco</h1>
+
 <?php
 
 // comentario 1 
